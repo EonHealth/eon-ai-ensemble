@@ -1,0 +1,26 @@
+Model Name,"Evaluation Set
+(sample size)","Accuracy
+(95% CI)","Macro F1
+(95% CI)","Macro Precision
+(95% CI)","Macro Recall
+(95% CI)"
+Llama 3.1 70B LLM,"Full cohort
+(n = 2,562)","87.86
+(86.61–89.11)","87.62
+(86.54–88.66)","91.83
+(90.70–92.89)","90.12
+(89.27–90.82)"
+Computational Linguistics (CL) Model,"Full cohort
+(n = 2,562)","99.26
+(98.91–99.57)","99.30
+(98.97–99.60)","99.42
+(99.12–99.67)","99.20
+(98.81–99.55)"
+"Hybrid Model
+(CL + LLM)","Agreement
+subset
+(n = 2,238)","99.96
+(99.86–100.00)","99.89
+(99.63–100.00)","99.83
+(99.42–100.00)","99.95
+(99.85–100.00)"

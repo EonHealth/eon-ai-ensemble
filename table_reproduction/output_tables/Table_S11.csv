@@ -1,0 +1,14 @@
+Comparison Pair,"Both Correct, n
+(% of cohort)","CL Correct / LLM Incorrect, n
+(% of cohort)","CL Incorrect / LLM Correct, n
+(% of cohort)","Both Incorrect, n
+(% of cohort)","Phi Error Correlation
+(95% CI)"
+CL + Llama 3.1 70B,"1,226 (53.37%)",618 (26.90%),124 (5.40%),329 (14.32%),"0.316
+(0.277–0.355)"
+CL + Llama 3.1 405B,"1,347 (58.64%)",497 (21.64%),149 (6.49%),304 (13.23%),"0.335
+(0.295–0.376)"
+CL + GPT-OSS-120B,"1,489 (64.82%)",355 (15.45%),186 (8.10%),267 (11.62%),"0.355
+(0.310–0.399)"
+CL + DeepSeek R1,"1,474 (64.17%)",370 (16.11%),176 (7.66%),277 (12.06%),"0.363
+(0.320–0.407)"

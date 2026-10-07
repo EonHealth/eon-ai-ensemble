@@ -1,0 +1,1574 @@
+"doc_id","text_original","max_rads_annotated"
+"1","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: The lung bases were not included in the scan field of view.
+No pleural effusion.
+
+CONCLUSION:
+1. Incomplete examination; the lung bases were not imaged.
+Lung-RADS 0: Incomplete.
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.","0"
+"2","EXAM: PET/CT SKULL BASE TO MID-THIGH
+INDICATION: Restaging of lymphoma.
+COMPARISON: PET/CT from 3 months earlier.
+
+Findings:
+No hypermetabolic lymphadenopathy in the neck, chest, abdomen, or
+pelvis.
+Lungs: 3.8 mm solid nodule in the right upper lobe.
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Complete metabolic response. No FDG-avid disease.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.","N/A"
+"3","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 24.9 mm solid nodule with spiculated margins in the right lower
+lobe (series 5, image 177).
+Mild centrilobular emphysema, upper lobe predominant.
+Heart size is normal. No pericardial effusion.
+
+Impression:
+1. Spiculated solid pulmonary nodule, highly suspicious for
+malignancy.
+Lung RADS 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"4","EXAM: CT CHEST ABDOMEN PELVIS WITH CONTRAST
+INDICATION: Trauma, motor vehicle collision.
+COMPARISON: None.
+
+FINDINGS:
+No pneumothorax, hemothorax, solid organ injury, or acute fracture.
+Lungs: 5.3 mm solid nodule in the right lower lobe.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Small hiatal hernia.
+
+Impression:
+1. No acute traumatic injury in the chest, abdomen, or pelvis.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.","N/A"
+"5","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: 15.8 mm irregular solid nodule in the lingula (series 3, image
+256).
+Moderate centrilobular emphysema.
+
+CONCLUSION:
+1. Irregular solid pulmonary nodule, suspicious. LUNG-RADS CATEGORY: 4
+- SUSPICIOUS
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"6","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 13.4 mm irregular solid nodule in the right lower lobe (series
+6, image 118).
+Heart size is normal. No pericardial effusion.
+No pleural effusion.
+Mild bronchial wall thickening.
+
+Impression:
+1. Irregular solid pulmonary nodule, suspicious.
+LUNG RADS SCORE: 4
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"7","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 25 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 11.3 mm nodule in the right upper lobe (series 3, image 216) containing macroscopic fat, consistent with a hamartoma.
+Heart size is normal. No pericardial effusion.
+No pleural effusion.
+
+CONCLUSION:
+1. Benign fat-containing nodule. No suspicious pulmonary nodules.
+Lung RADS 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","1"
+"8","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: Ground-glass nodule in the lingula (series 2, image 87) has doubled in size over 1 year and now measures 27.7 mm.
+No pleural effusion.
+Mild centrilobular emphysema, upper lobe predominant.
+
+IMPRESSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+2. Prior exam was assessed as Lung-RADS 2.
+Lung-RADS Assessment: Category 4X (Very suspicious).
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling. Referral to pulmonology or thoracic surgery is recommended.","4X"
+"9","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+Findings:
+Lungs: 5.3 mm solid nodule in the left upper lobe (series 2, image 175). An outside prior chest CT is reported to exist but is not available for comparison.
+Small hiatal hernia.
+
+Impression:
+1. Pulmonary nodule; comparison with the outside prior CT is needed before a final assessment.
+LungRADS category: 0
+LungRADS modifier: None
+RECOMMENDATION: Please forward the outside prior CT for comparison. An addendum will be issued.","0"
+"10","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 60 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 6.1 mm solid nodule in the right middle lobe (series 4, image 212).
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+Mild atherosclerosis of the thoracic aorta.
+No pleural effusion.
+
+CONCLUSION:
+1. Solid pulmonary nodule measuring between 6 and 8 mm.
+LungRADS category: 3
+LungRADS modifier: None
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"11","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 11.3 mm irregular solid nodule in the right middle lobe (series 5, image 221).
+Moderate coronary artery calcification.
+
+IMPRESSION:
+1. Irregular solid pulmonary nodule, suspicious. Lung-RADS 4: Suspicious.
+RECOMMENDATION: Further evaluation with PET/CT and referral to the multidisciplinary lung nodule clinic.","4"
+"12","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Current smoker, 36 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: Ground-glass nodule in the right upper lobe (series 2, image
+264) has doubled in size over 1 year and now measures 22.7 mm.
+Mild degenerative changes of the thoracic spine.
+Mild centrilobular emphysema, upper lobe predominant.
+Small hiatal hernia.
+
+CONCLUSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+2. Prior exam was assessed as Lung-RADS 2.
+Lung-RADS category: 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"13","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 4.6 cm mass in the lingula (series 6, image 64).
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Mild degenerative changes of the thoracic spine.
+
+CONCLUSION:
+1. Lung mass suggestive of malignancy.
+ACR Lung-RADS v2022 category 4, suspicious.
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"14","EXAM: CT ABDOMEN AND PELVIS WITH CONTRAST
+INDICATION: Abdominal pain.
+COMPARISON: None.
+
+FINDINGS:
+Abdomen and pelvis: Normal appendix. No bowel obstruction or free fluid.
+Heart size is normal. No pericardial effusion.
+Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute abdominopelvic process.","N/A"
+"15","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 12.3 mm nodule in the right upper lobe (series 6, image 174) containing macroscopic fat, consistent with a hamartoma.
+Mild degenerative changes of the thoracic spine.
+Heart size is normal. No pericardial effusion.
+Mild bronchial wall thickening.
+
+Impression:
+1. Benign fat-containing nodule. No suspicious pulmonary nodules. Lung-RADS Assessment: Category 1 (Negative).
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","1"
+"16","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+Findings:
+Lungs: 6.4 mm solid nodule in the right middle lobe (series 4, image 83), unchanged from the prior exam.
+Mild atherosclerosis of the thoracic aorta.
+Mild degenerative changes of the thoracic spine.
+Heart size is normal. No pericardial effusion.
+
+CONCLUSION:
+1. Stable solid pulmonary nodule.
+ACR Lung-RADS v2022 category 2, benign appearance or behavior.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"17","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 43 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 19.1 mm part-solid nodule in the lingula (series 3, image 218)
+with an 8.7 mm solid component.
+Mild coronary artery calcification.
+Mild degenerative changes of the thoracic spine.
+
+CONCLUSION:
+1. Part-solid nodule with a solid component larger than 8 mm.
+Lung RADS 4B
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"18","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 49 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 6.7 mm solid nodule in the right middle lobe (series 6, image 263).
+Mild bronchial wall thickening.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. Solid pulmonary nodule measuring between 6 and 8 mm.
+ACR Lung-RADS v2022 category 3, probably benign.
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"19","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 5.2 cm mass in the left lower lobe (series 3, image 129).
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+Mild centrilobular emphysema, upper lobe predominant.
+
+Impression:
+1. Lung mass suggestive of malignancy.
+Lung-RADS category: 4
+RECOMMENDATION: Further evaluation with PET/CT and referral to the multidisciplinary lung nodule clinic.","4"
+"20","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+37 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 3.6 cm mass in the right middle lobe (series 4, image 270).
+No pleural effusion.
+
+CONCLUSION:
+1. Lung mass suggestive of malignancy. Lung-RADS Assessment: Category
+4 (Suspicious).
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"21","EXAM: CT CHEST WITHOUT CONTRAST
+INDICATION: Chronic cough.
+COMPARISON: None.
+
+FINDINGS:
+Airways: Mild bronchial wall thickening without bronchiectasis.
+Lungs: 4.6 mm solid nodule in the right middle lobe.
+Small hiatal hernia.
+
+Impression:
+1. Mild bronchial wall thickening, which can be seen with bronchitis
+or reactive airways disease.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.
+Note: Fleischner Society guidelines do not apply to lung cancer
+screening patients, for whom Lung-RADS should be used.","N/A"
+"22","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: 6.6 mm endobronchial nodule in the right lower lobe segmental bronchus.
+No pleural effusion.
+
+CONCLUSION:
+1. Endobronchial nodule.
+LungRADS category: 4A
+LungRADS modifier: None
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be considered if there is a solid component of 8 mm or larger.","4A"
+"23","EXAM: CT CHEST ABDOMEN PELVIS WITH CONTRAST
+INDICATION: Trauma, motor vehicle collision.
+COMPARISON: None.
+
+FINDINGS:
+No pneumothorax, hemothorax, solid organ injury, or acute fracture.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. No acute traumatic injury in the chest, abdomen, or pelvis.","N/A"
+"24","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+45 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 15 mm part-solid nodule in the right middle lobe (series 2,
+image 209) with a 7.7 mm solid component.
+Mild bronchial wall thickening.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+
+Impression:
+1. Part-solid nodule with a solid component between 6 and 8 mm.
+Lung-RADS category: 4A
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","4A"
+"25","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Former smoker, 35 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 5.8 mm endobronchial nodule in the left lower lobe segmental bronchus.
+Heart size is normal. No pericardial effusion.
+
+Impression:
+1. Endobronchial nodule.
+LUNG-RADS CATEGORY: 4A - SUSPICIOUS
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be considered if there is a solid component of 8 mm or larger.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","4A"
+"26","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 3 mm densely calcified nodule in the right middle lobe (series
+2, image 20), consistent with a granuloma.
+The visualized upper abdomen is unremarkable.
+
+IMPRESSION:
+1. Benign calcified granuloma. No suspicious pulmonary nodules.
+ACR category: 1 (Negative).
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","1"
+"27","EXAM: CT CHEST WITH CONTRAST
+INDICATION: Follow-up of a pulmonary nodule found on lung cancer screening.
+COMPARISON: Low-dose screening CT from 3 months earlier.
+
+FINDINGS:
+Lungs: 12.6 mm solid nodule in the lingula (series 3, image 223), unchanged in size.
+No pleural effusion.
+
+IMPRESSION:
+1. Stable solid pulmonary nodule.
+2. The nodule was assigned Lung-RADS 4A on the screening exam. Lung-RADS categories apply only to screening CT, so none is assigned to this diagnostic study.
+RECOMMENDATION: Discussion at the multidisciplinary lung nodule conference.","N/A"
+"28","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: No pulmonary nodules.
+No pleural effusion.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Heart size is normal. No pericardial effusion.
+
+CONCLUSION:
+1. No pulmonary nodules.
+Lung-RADS 1: Negative.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","1"
+"29","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+42 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: Multiple new patchy nodular opacities in both lower lobes with
+surrounding ground-glass, favored to be infectious or inflammatory.
+Mild coronary artery calcification.
+
+IMPRESSION:
+1. Findings favored to be infectious or inflammatory. Short-term
+follow-up low-dose CT in 1 to 3 months is recommended. ACR Lung-RADS
+v2022 category 0, incomplete.
+RECOMMENDATION: Low-dose chest CT in 1 to 3 months.","0"
+"30","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: The lung bases were not included in the scan field of view.
+No pleural effusion.
+Mild bronchial wall thickening.
+Heart size is normal. No pericardial effusion.
+
+CONCLUSION:
+1. Incomplete examination; the lung bases were not imaged.
+LUNG RADS SCORE: 0
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.","0"
+"31","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+55 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: No pulmonary nodules.
+Heart size is normal. No pericardial effusion.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. No pulmonary nodules.
+LUNG RADS SCORE: 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","1"
+"32","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Former
+smoker, 22 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 4.8 mm solid nodule in the right lower lobe (series 2,
+image 198).
+Mild bronchial wall thickening.
+No pleural effusion.
+Mild degenerative changes of the thoracic spine.
+
+Impression:
+1. New small solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 2.
+ACR Lung-RADS v2022 category 3, probably benign.
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"33","EXAM: CT ABDOMEN AND PELVIS WITH CONTRAST
+INDICATION: Abdominal pain.
+COMPARISON: None.
+
+FINDINGS:
+Abdomen and pelvis: Normal appendix. No bowel obstruction or free
+fluid.
+Lungs: 5.1 mm solid nodule in the right lower lobe.
+Mild coronary artery calcification.
+
+IMPRESSION:
+1. No acute abdominopelvic process.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.","N/A"
+"34","EXAM: CT ANGIOGRAPHY CHEST WITH CONTRAST
+INDICATION: Shortness of breath, evaluate for pulmonary embolism.
+COMPARISON: None.
+
+FINDINGS:
+Pulmonary arteries: No filling defect to suggest pulmonary embolism.
+Lungs: 5.5 mm solid nodule in the left lower lobe.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Mild bronchial wall thickening.
+
+IMPRESSION:
+1. No pulmonary embolism.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.","N/A"
+"35","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+Findings:
+Lungs: 27.7 mm ground-glass nodule in the left lower lobe (series 2, image 147).
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Ground-glass nodule measuring less than 3 cm.
+Lung-RADS 2: Benign appearance or behavior.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"36","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 16.1 mm solid nodule in the right upper lobe (series 5, image
+258). Enlarged ipsilateral hilar lymph node measuring 15.8 mm in short
+axis.
+Mild atherosclerosis of the thoracic aorta.
+Small hiatal hernia.
+Mild centrilobular emphysema, upper lobe predominant.
+
+Impression:
+1. Large solid nodule with associated hilar lymphadenopathy,
+suspicious for malignancy. Lung RADS 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"37","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 5.7 cm mass in the right lower lobe (series 4, image 279).
+Mild degenerative changes of the thoracic spine.
+Mild bronchial wall thickening.
+
+IMPRESSION:
+1. Lung mass suggestive of malignancy. ACR Lung-RADS v2022 category 4,
+suspicious.
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"38","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Current smoker, 31 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+Findings:
+Lungs: Solid nodule in the left lower lobe (series 6, image 92) now measures 6.6 mm, previously 5 mm.
+Mild degenerative changes of the thoracic spine.
+
+Impression:
+1. Interval growth of a solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 3.
+Lung-RADS 4A: Suspicious.
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be considered if there is a solid component of 8 mm or larger.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","4A"
+"39","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Former
+smoker, 21 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 6.4 mm endobronchial nodule in the left lower lobe segmental
+bronchus.
+No pleural effusion.
+Mild centrilobular emphysema, upper lobe predominant.
+
+IMPRESSION:
+1. Endobronchial nodule. Lung-RADS 4A: Suspicious.
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.","4A"
+"40","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 26.2 mm solid nodule in the lingula (series 4, image 90).
+Moderate coronary artery calcification.
+Mild atherosclerosis of the thoracic aorta.
+Mild degenerative changes of the thoracic spine.
+
+CONCLUSION:
+1. Solid pulmonary nodule measuring at least 15 mm.
+LUNG-RADS CATEGORY: 4B - VERY SUSPICIOUS
+Lung-RADS modifier S: Yes, clinically significant coronary artery
+calcification.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"41","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 12.9 mm solid nodule with spiculated margins in the left upper
+lobe (series 3, image 132).
+Mild bronchial wall thickening.
+Mild degenerative changes of the thoracic spine.
+Mild atherosclerosis of the thoracic aorta.
+
+CONCLUSION:
+1. Spiculated solid pulmonary nodule, highly suspicious for
+malignancy. LUNG RADS SCORE: 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"42","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 11.9 mm solid nodule in the left upper lobe (series 6,
+image 229).
+Small hiatal hernia.
+Mild coronary artery calcification.
+Mild atherosclerosis of the thoracic aorta.
+
+CONCLUSION:
+1. New solid pulmonary nodule larger than 8 mm.
+2. Prior exam was assessed as Lung-RADS 1.
+LUNG-RADS CATEGORY: 4B - VERY SUSPICIOUS
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"43","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 47 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: The lung bases were not included in the scan field of view.
+Mild coronary artery calcification.
+
+Impression:
+1. Incomplete examination; the lung bases were not imaged.
+Lung-RADS 0: Incomplete.
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.","0"
+"44","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+26 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 6.9 mm solid nodule in the lingula (series 4, image 250).
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Moderate coronary artery calcification.
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Solid pulmonary nodule measuring between 6 and 8 mm. ACR Lung-RADS
+v2022 category 3, probably benign.
+Lung-RADS modifier S: Yes, clinically significant coronary artery
+calcification.
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"45","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+Findings:
+Lungs: 3.6 cm mass in the right middle lobe (series 4, image 92).
+Moderate coronary artery calcification.
+Small hiatal hernia.
+Mild atherosclerosis of the thoracic aorta.
+
+IMPRESSION:
+1. Lung mass suggestive of malignancy. LUNG RADS SCORE: 4
+RECOMMENDATION: Further evaluation with PET/CT and referral to the multidisciplinary lung nodule clinic.","4"
+"46","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: Ground-glass nodule in the left upper lobe (series 6, image 80)
+has doubled in size over 1 year and now measures 29.6 mm.
+Mild coronary artery calcification.
+Mild atherosclerosis of the thoracic aorta.
+The visualized upper abdomen is unremarkable.
+
+CONCLUSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+2. Prior exam was assessed as Lung-RADS 2.
+ACR Lung-RADS v2022 category 4X, very suspicious.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"47","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 39 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 4.7 cm mass in the right upper lobe (series 3, image 123).
+No pleural effusion.
+Mild centrilobular emphysema, upper lobe predominant.
+Mild bronchial wall thickening.
+
+CONCLUSION:
+1. Lung mass suggestive of malignancy.
+LungRADS category: 4
+LungRADS modifier: None
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.","4"
+"48","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 24 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 6.4 cm mass in the left upper lobe (series 6, image 20).
+Simple-appearing cyst in the partially imaged left kidney.
+Mild coronary artery calcification.
+
+Impression:
+1. Lung mass suggestive of malignancy.
+ACR Lung-RADS v2022 category 4, suspicious.
+RECOMMENDATION: Further evaluation with PET/CT and referral to the
+multidisciplinary lung nodule clinic.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","4"
+"49","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: Ground-glass nodule in the left lower lobe (series 6, image 187) has doubled in size over 1 year and now measures 24.9 mm.
+Simple-appearing cyst in the partially imaged left kidney.
+Mild atherosclerosis of the thoracic aorta.
+Mild coronary artery calcification.
+
+IMPRESSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+Lung RADS 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling. Referral to pulmonology or thoracic surgery is recommended.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","4X"
+"50","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Former
+smoker, 58 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: New 11.1 mm solid nodule in the right lower lobe (series 5,
+image 133).
+Small hiatal hernia.
+
+Impression:
+1. New solid pulmonary nodule larger than 8 mm.
+Lung-RADS Assessment: Category 4B (Very suspicious).
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"51","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+FINDINGS:
+Lungs: Solid nodule in the right lower lobe (series 4, image 148) now
+measures 6.6 mm, previously 5 mm.
+Heart size is normal. No pericardial effusion.
+
+Impression:
+1. Interval growth of a solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 3.
+Lung RADS 4A
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.","4A"
+"52","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 4.3 cm mass in the left upper lobe (series 6, image 148).
+No pleural effusion.
+
+CONCLUSION:
+1. Lung mass suggestive of malignancy.
+ACR Lung-RADS v2022 category 4, suspicious.
+RECOMMENDATION: Further evaluation with PET/CT and referral to the multidisciplinary lung nodule clinic.","4"
+"53","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 12.3 mm part-solid nodule in the right lower lobe (series 6, image 64) with a 6.9 mm solid component.
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+Mild bronchial wall thickening.
+Heart size is normal. No pericardial effusion.
+
+Impression:
+1. Part-solid nodule with a solid component between 6 and 8 mm.
+Lung-RADS Assessment: Category 4A (Suspicious).
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be considered if there is a solid component of 8 mm or larger.","4A"
+"54","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+52 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 13.3 mm solid nodule in the right middle lobe (series 4, image
+89).
+Small hiatal hernia.
+
+Impression:
+1. Solid pulmonary nodule measuring between 8 and 15 mm.
+Lung-RADS category: 4A
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.","4A"
+"55","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Current smoker, 47 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 10 mm solid nodule in the left lower lobe (series 2, image
+145).
+Mild degenerative changes of the thoracic spine.
+Heart size is normal. No pericardial effusion.
+Mild bronchial wall thickening.
+
+Impression:
+1. New solid pulmonary nodule larger than 8 mm. Lung-RADS category: 4B
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"56","EXAM: CT CHEST ABDOMEN PELVIS WITH CONTRAST
+INDICATION: Trauma, motor vehicle collision.
+COMPARISON: None.
+
+Findings:
+No pneumothorax, hemothorax, solid organ injury, or acute fracture.
+Mild bronchial wall thickening.
+Moderate centrilobular emphysema.
+No pleural effusion.
+
+IMPRESSION:
+1. No acute traumatic injury in the chest, abdomen, or pelvis.","N/A"
+"57","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+FINDINGS:
+Lungs: 4 mm solid nodule in the right upper lobe (series 4, image 32),
+decreased from 6.1 mm.
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Decreasing solid pulmonary nodule, likely inflammatory.
+On the exam 6 months ago this was Lung-RADS 3.
+Lung RADS 2
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","2"
+"58","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Asymptomatic.
+COMPARISON: Low-dose chest CT from 3 months earlier.
+
+FINDINGS:
+Lungs: 13.8 mm solid nodule in the right middle lobe (series 6, image 202), unchanged.
+Small hiatal hernia.
+Heart size is normal. No pericardial effusion.
+Mild atherosclerosis of the thoracic aorta.
+
+IMPRESSION:
+1. Stable solid pulmonary nodule at 3-month follow-up.
+Previously Lung-RADS 4A, now downgraded to Lung-RADS 3.
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"59","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 23 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 4.3 mm solid nodule in the lingula (series 4, image 163).
+Heart size is normal. No pericardial effusion.
+Mild bronchial wall thickening.
+Mild coronary artery calcification.
+
+Impression:
+1. Small solid pulmonary nodule with benign appearance.
+LungRADS category: 2
+LungRADS modifier: None
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"60","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: The lung bases were not included in the scan field of view.
+The visualized upper abdomen is unremarkable.
+No pleural effusion.
+
+Impression:
+1. Incomplete examination; the lung bases were not imaged. Lung-RADS Assessment: Category 0 (Incomplete).
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","0"
+"61","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Current smoker, 34 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 5.6 mm solid nodule in the left upper lobe (series 3, image
+247).
+Small hiatal hernia.
+Mild bronchial wall thickening.
+The visualized upper abdomen is unremarkable.
+
+IMPRESSION:
+1. New small solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 2.
+LungRADS category: 3
+LungRADS modifier: None
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"62","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: No pulmonary nodules.
+Heart size is normal. No pericardial effusion.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+
+Impression:
+1. No pulmonary nodules. LUNG RADS SCORE: 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","1"
+"63","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+28 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: The lung bases were not included in the scan field of view.
+Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Incomplete examination; the lung bases were not imaged.
+Lung-RADS category: 0
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","0"
+"64","EXAM: CT CHEST WITH CONTRAST
+INDICATION: Follow-up of a pulmonary nodule found on lung cancer screening.
+COMPARISON: Low-dose screening CT from 3 months earlier.
+
+FINDINGS:
+Lungs: 11.3 mm solid nodule in the right upper lobe (series 2, image 193), unchanged in size.
+Heart size is normal. No pericardial effusion.
+Simple-appearing cyst in the partially imaged left kidney.
+
+IMPRESSION:
+1. Stable solid pulmonary nodule.
+2. The nodule was assigned Lung-RADS 4B on the screening exam. Lung-RADS categories apply only to screening CT, so none is assigned to this diagnostic study.
+RECOMMENDATION: Discussion at the multidisciplinary lung nodule conference.","N/A"
+"65","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: Multiple new patchy nodular opacities in both lower lobes with
+surrounding ground-glass, favored to be infectious or inflammatory.
+Heart size is normal. No pericardial effusion.
+Moderate centrilobular emphysema.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. Findings favored to be infectious or inflammatory. Short-term
+follow-up low-dose CT in 1 to 3 months is recommended.
+Lung RADS 0
+RECOMMENDATION: Low-dose chest CT in 1 to 3 months.","0"
+"66","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 5.2 mm solid nodule in the right upper lobe (series 5,
+image 56).
+Small hiatal hernia.
+
+IMPRESSION:
+1. New small solid pulmonary nodule.
+LUNG RADS SCORE: 3
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"67","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+Findings:
+Lungs: 14.8 mm part-solid nodule in the right lower lobe (series 5, image 126) with an 8.5 mm solid component.
+Mild atherosclerosis of the thoracic aorta.
+Mild bronchial wall thickening.
+
+IMPRESSION:
+1. Part-solid nodule with a solid component larger than 8 mm.
+LUNG-RADS CATEGORY: 4B - VERY SUSPICIOUS
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling, depending on the probability of malignancy and comorbidities.","4B"
+"68","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+23 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 5.2 mm solid nodule in the left lower lobe (series 3, image
+229).
+Small hiatal hernia.
+
+Impression:
+1. Small solid pulmonary nodule with benign appearance.
+ACR Lung-RADS v2022 category 2, benign appearance or behavior.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","2"
+"69","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: Multiple new patchy nodular opacities in both lower lobes with surrounding ground-glass, favored to be infectious or inflammatory.
+Moderate coronary artery calcification.
+
+CONCLUSION:
+1. Findings favored to be infectious or inflammatory. Short-term follow-up low-dose CT in 1 to 3 months is recommended.
+ACR Lung-RADS v2022 category 0, incomplete.
+RECOMMENDATION: Low-dose chest CT in 1 to 3 months.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","0"
+"70","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 15.8 mm solid nodule in the right upper lobe (series 6, image 224).
+No pleural effusion.
+Mild coronary artery calcification.
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+
+Impression:
+1. Solid pulmonary nodule measuring at least 15 mm.
+LUNG-RADS CATEGORY: 4B - VERY SUSPICIOUS
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling, depending on the probability of malignancy and comorbidities.","4B"
+"71","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Former
+smoker, 36 pack-years.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: New 11.5 mm solid nodule in the lingula (series 6, image 253).
+Mild centrilobular emphysema, upper lobe predominant.
+
+CONCLUSION:
+1. New solid pulmonary nodule larger than 8 mm.
+2. Prior exam was assessed as Lung-RADS 2.
+LungRADS category: 4B
+LungRADS modifier: None
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","4B"
+"72","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 5.2 mm solid nodule in the right middle lobe (series 5, image
+118). An outside prior chest CT is reported to exist but is not
+available for comparison.
+Mild degenerative changes of the thoracic spine.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+The visualized upper abdomen is unremarkable.
+
+CONCLUSION:
+1. Pulmonary nodule; comparison with the outside prior CT is needed
+before a final assessment.
+Lung-RADS category: 0
+RECOMMENDATION: Please forward the outside prior CT for comparison. An
+addendum will be issued.
+
+ADDENDUM:
+The outside chest CT from 2 years earlier has since been reviewed. The
+nodule is unchanged over this interval. The Lung-RADS category is
+revised to 2. Continue annual screening with low-dose CT in 12 months.","2"
+"73","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: The lung bases were not included in the scan field of view.
+Small hiatal hernia.
+Mild atherosclerosis of the thoracic aorta.
+No pleural effusion.
+
+IMPRESSION:
+1. Incomplete examination; the lung bases were not imaged.
+Lung-RADS Assessment: Category 0 (Incomplete).
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.","0"
+"74","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: The lung bases were not included in the scan field of view.
+Mild bronchial wall thickening.
+Moderate coronary artery calcification.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+
+CONCLUSION:
+1. Incomplete examination; the lung bases were not imaged.
+LungRADS category: 0
+LungRADS modifier: None
+RECOMMENDATION: Repeat low-dose CT to include the entire chest.","0"
+"75","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: Ground-glass nodule in the lingula (series 3, image 160) has doubled in size over 1 year and now measures 29.7 mm.
+Moderate coronary artery calcification.
+Moderate centrilobular emphysema.
+
+CONCLUSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+2. Prior exam was assessed as Lung-RADS 2.
+LUNG-RADS CATEGORY: 4X - VERY SUSPICIOUS
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling. Referral to pulmonology or thoracic surgery is recommended.","4X"
+"76","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 34 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 2.4 mm solid nodule in the right lower lobe (series 6, image 27).
+Mild atherosclerosis of the thoracic aorta.
+No pleural effusion.
+
+Impression:
+1. Small solid pulmonary nodule with benign appearance.
+LUNG-RADS CATEGORY: 2 - BENIGN APPEARANCE OR BEHAVIOR
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign; 4A suspicious; 4B and 4X very suspicious; S significant other finding.","2"
+"77","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+Findings:
+Lungs: 19.9 mm solid nodule in the left lower lobe (series 3, image
+246).
+Mild atherosclerosis of the thoracic aorta.
+No pleural effusion.
+Simple-appearing cyst in the partially imaged left kidney.
+
+CONCLUSION:
+1. Solid pulmonary nodule measuring at least 15 mm.
+Lung-RADS 4B: Very suspicious.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"78","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 3.9 mm densely calcified nodule in the right middle lobe
+(series 6, image 51), consistent with a granuloma.
+Mild bronchial wall thickening.
+
+Impression:
+1. Benign calcified granuloma. No suspicious pulmonary nodules.
+LUNG RADS SCORE: 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.","1"
+"79","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 34 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 14.1 mm solid nodule in the right lower lobe (series 5, image
+159).
+No pleural effusion.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+Mild centrilobular emphysema, upper lobe predominant.
+
+IMPRESSION:
+1. Solid pulmonary nodule measuring between 8 and 15 mm. Lung-RADS
+category: 4A
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","4A"
+"80","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+COMPARISON: None.
+
+Findings:
+Lungs: No pulmonary nodules.
+Mild centrilobular emphysema, upper lobe predominant.
+Mild atherosclerosis of the thoracic aorta.
+
+CONCLUSION:
+1. No pulmonary nodules.
+Lung-RADS Assessment: Category 1 (Negative).
+ACR Lung-RADS reference:
+Lung-RADS 1: Negative. Continue annual screening.
+Lung-RADS 2: Benign appearance or behavior. Continue annual screening.
+Lung-RADS 3: Probably benign. Low-dose CT in 6 months.
+Lung-RADS 4A: Suspicious. Low-dose CT in 3 months.
+Lung-RADS 4B: Very suspicious. Diagnostic chest CT, PET/CT and/or tissue sampling.
+Lung-RADS 4X: Category 3 or 4 nodule with additional suspicious features.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","1"
+"81","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+Findings:
+Lungs: 6.9 mm solid nodule in the left lower lobe (series 6, image 93), unchanged from the prior exam.
+Small hiatal hernia.
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+
+IMPRESSION:
+1. Stable solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 3.
+Lung RADS 2
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"82","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 34 pack-years.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 9.8 mm part-solid nodule in the left lower lobe (series 5,
+image 66) with a 3.6 mm solid component.
+Mild coronary artery calcification.
+Mild bronchial wall thickening.
+
+Impression:
+1. Part-solid nodule with a small solid component.
+Lung-RADS category: 3
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"83","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: New 4.9 mm solid nodule in the right middle lobe (series 2, image 76).
+No pleural effusion.
+Mild bronchial wall thickening.
+Small hiatal hernia.
+
+CONCLUSION:
+1. New small solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 2.
+Lung-RADS category: 3
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"84","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker, 54 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 18.9 mm solid nodule with spiculated margins in the right middle lobe (series 5, image 125).
+Heart size is normal. No pericardial effusion.
+Mild atherosclerosis of the thoracic aorta.
+
+IMPRESSION:
+1. Spiculated solid pulmonary nodule, highly suspicious for malignancy.
+Lung-RADS 4X: Very suspicious.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling. Referral to pulmonology or thoracic surgery is recommended.","4X"
+"85","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 7.6 mm densely calcified nodule in the right lower lobe (series 5, image 56), consistent with a granuloma.
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+No pleural effusion.
+
+CONCLUSION:
+1. Benign calcified granuloma. No suspicious pulmonary nodules.
+Lung RADS 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","1"
+"86","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 21 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 3 mm solid nodule in the right middle lobe (series 6, image 257).
+Mild degenerative changes of the thoracic spine.
+Scattered calcified mediastinal lymph nodes, consistent with prior granulomatous disease.
+
+Impression:
+1. Small solid pulmonary nodule with benign appearance.
+Lung-RADS category: 2
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"87","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 23.2 mm solid nodule in the left lower lobe (series 2, image 133). Enlarged ipsilateral hilar lymph node measuring 13.9 mm in short axis.
+Simple-appearing cyst in the partially imaged left kidney.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. Large solid nodule with associated hilar lymphadenopathy, suspicious for malignancy.
+ACR Lung-RADS v2022 category 4X, very suspicious.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling. Referral to pulmonology or thoracic surgery is recommended.","4X"
+"88","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 10.5 mm part-solid nodule in the right middle lobe (series 2,
+image 270) with a 7.1 mm solid component.
+Mild centrilobular emphysema, upper lobe predominant.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+
+Impression:
+1. Part-solid nodule with a solid component between 6 and 8 mm. LUNG
+RADS SCORE: 4A
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.","4A"
+"89","EXAM: LDCT LUNG CANCER SCREENING
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+28 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: Severe respiratory motion artifact limits evaluation of the
+lower lungs.
+Mild degenerative changes of the thoracic spine.
+Heart size is normal. No pericardial effusion.
+Small hiatal hernia.
+
+CONCLUSION:
+1. Nondiagnostic evaluation of the lower lungs due to motion.
+Lung RADS 0
+RECOMMENDATION: Repeat low-dose CT.","0"
+"90","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: 4.7 mm endobronchial nodule in the right lower lobe segmental
+bronchus.
+Scattered calcified mediastinal lymph nodes, consistent with prior
+granulomatous disease.
+
+CONCLUSION:
+1. Endobronchial nodule.
+LungRADS category: 4A
+LungRADS modifier: None
+RECOMMENDATION: Low-dose chest CT in 3 months. PET/CT may be
+considered if there is a solid component of 8 mm or larger.","4A"
+"91","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Current smoker, 30 pack-years.
+COMPARISON: Prior low-dose screening CT from 6 months earlier.
+
+Findings:
+Lungs: 6.6 mm solid nodule in the left lower lobe (series 2, image 268), unchanged from the prior exam.
+Mild atherosclerosis of the thoracic aorta.
+Small hiatal hernia.
+
+IMPRESSION:
+1. Stable solid pulmonary nodule.
+2. Prior exam was assessed as Lung-RADS 3.
+LUNG-RADS CATEGORY: 2 - BENIGN APPEARANCE OR BEHAVIOR
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"92","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Asymptomatic.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 8.8 mm ground-glass nodule in the left upper lobe (series 3, image 160).
+Small hiatal hernia.
+Mild centrilobular emphysema, upper lobe predominant.
+
+IMPRESSION:
+1. Ground-glass nodule measuring less than 3 cm.
+Lung-RADS two.
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","2"
+"93","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 47 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 7.5 mm part-solid nodule in the right upper lobe (series 4, image 183) with a 4.6 mm solid component.
+Moderate centrilobular emphysema.
+Mild atherosclerosis of the thoracic aorta.
+
+Impression:
+1. Part-solid nodule with a small solid component.
+LUNG RADS SCORE: 3
+RECOMMENDATION: Low-dose chest CT in 6 months.","3"
+"94","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam.
+Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+Findings:
+Lungs: Ground-glass nodule in the lingula (series 2, image 143) has
+doubled in size over 1 year and now measures 29.5 mm.
+Simple-appearing cyst in the partially imaged left kidney.
+Small hiatal hernia.
+Mild atherosclerosis of the thoracic aorta.
+
+IMPRESSION:
+1. Ground-glass nodule that has doubled in size within 1 year.
+Lung-RADS category: 4X
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling. Referral to pulmonology or thoracic surgery is
+recommended.","4X"
+"95","EXAM: CT LUNG SCREENING WO CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+Findings:
+Lungs: 7.5 mm solid nodule in the right lower lobe (series 6, image
+174).
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Solid pulmonary nodule measuring between 6 and 8 mm. Lung-RADS 3:
+Probably benign.
+RECOMMENDATION: Low-dose chest CT in 6 months.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","3"
+"96","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current
+smoker, 40 pack-years.
+COMPARISON: None.
+
+Findings:
+Lungs: 6.8 mm densely calcified nodule in the left lower lobe (series
+4, image 38), consistent with a granuloma.
+Mild degenerative changes of the thoracic spine.
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Benign calcified granuloma. No suspicious pulmonary nodules.
+LungRADS category: 1
+LungRADS modifier: None
+RECOMMENDATION: Continue annual screening with low-dose CT in 12
+months.
+
+Lung-RADS key: 0 incomplete; 1 negative; 2 benign; 3 probably benign;
+4A suspicious; 4B and 4X very suspicious; S significant other finding.","1"
+"97","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Former smoker,
+44 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous
+contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 19.1 mm part-solid nodule in the left upper lobe (series 5,
+image 33) with a 9.9 mm solid component.
+Heart size is normal. No pericardial effusion.
+No pleural effusion.
+
+CONCLUSION:
+1. Part-solid nodule with a solid component larger than 8 mm.
+Lung-RADS 4B: Very suspicious.
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT
+and/or tissue sampling, depending on the probability of malignancy and
+comorbidities.","4B"
+"98","EXAM: CT CHEST LOW DOSE LUNG CANCER SCREENING WITHOUT CONTRAST
+CLINICAL HISTORY: Lung cancer screening. Annual follow-up exam. Asymptomatic.
+COMPARISON: Prior low-dose screening CT from 1 year earlier.
+
+FINDINGS:
+Lungs: 4.7 mm densely calcified nodule in the right middle lobe (series 3, image 115), consistent with a granuloma.
+Small hiatal hernia.
+Heart size is normal. No pericardial effusion.
+
+IMPRESSION:
+1. Benign calcified granuloma. No suspicious pulmonary nodules. Lung RADS 1
+RECOMMENDATION: Continue annual screening with low-dose CT in 12 months.","1"
+"99","EXAM: Low-dose CT chest for lung cancer screening
+CLINICAL HISTORY: Lung cancer screening. Baseline exam. Current smoker, 26 pack-years.
+TECHNIQUE: Low-dose helical CT of the chest without intravenous contrast.
+COMPARISON: None.
+
+FINDINGS:
+Lungs: 27.6 mm solid nodule in the right lower lobe (series 6, image 115).
+The visualized upper abdomen is unremarkable.
+Mild bronchial wall thickening.
+
+CONCLUSION:
+1. Solid pulmonary nodule measuring at least 15 mm.
+Lung RADS 4B
+RECOMMENDATION: Diagnostic chest CT with or without contrast, PET/CT and/or tissue sampling, depending on the probability of malignancy and comorbidities.","4B"
+"100","EXAM: CT ANGIOGRAPHY CHEST WITH CONTRAST
+INDICATION: Shortness of breath, evaluate for pulmonary embolism.
+COMPARISON: None.
+
+Findings:
+Pulmonary arteries: No filling defect to suggest pulmonary embolism.
+Lungs: 4.9 mm solid nodule in the left upper lobe.
+Simple-appearing cyst in the partially imaged left kidney.
+Heart size is normal. No pericardial effusion.
+
+Impression:
+1. No pulmonary embolism.
+2. Small incidental pulmonary nodule under 6 mm. Per Fleischner
+Society guidelines, no routine follow-up is required; optional CT in
+12 months if high risk.
+Note: Fleischner Society guidelines do not apply to lung cancer
+screening patients, for whom Lung-RADS should be used.","N/A"

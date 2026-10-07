@@ -1,0 +1,5 @@
+"Disagreement Subset
+(n = 324)",LLM Correct,LLM Incorrect,CL Total
+CL Correct,0 (0.00%),306 (94.44%),306 (94.44%)
+CL Incorrect,14 (4.32%),4 (1.23%),18 (5.56%)
+LLM Total,14 (4.32%),310 (95.68%),324 (100.00%)

@@ -1,0 +1,5 @@
+"Agreement Subset
+(n = 2,238)",LLM Correct,LLM Incorrect,CL Total
+CL Correct,"2,237 (99.96%)",0 (0.00%),"2,237 (99.96%)"
+CL Incorrect,0 (0.00%),1 (0.04%),1 (0.04%)
+LLM Total,"2,237 (99.96%)",1 (0.04%),"2,238 (100.00%)"
